@@ -2,7 +2,15 @@
   "author": "Connor Montgomery <c@cnnr.me> (http://cnnr.me)",
   "name": "hulu-node",
   "description": "A wrapper to query the hulu search API",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "keywords": [
+    "hulu",
+    "movies"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/connor/hulu-node"
+  },
   "dependencies": {
     "request": "*",
     "xml2json": "*"
