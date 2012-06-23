@@ -2,7 +2,7 @@
   "author": "Connor Montgomery <c@cnnr.me> (http://cnnr.me)",
   "name": "hulu-node",
   "description": "A wrapper to query the hulu search API",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "hulu",
     "movies"
